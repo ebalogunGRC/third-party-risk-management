@@ -1,4 +1,4 @@
-# 🤝  — Third-Party Risk Management (TPRM) Program
+# 🤝  — Third-Party Risk Management (TPRM)
 
 **Organization:** FinServ Co. | **Frameworks:** ISO 27001:2022 · NIST SP 800-161 · DORA · SOC 2 CC9.2  
 **Role:** GRC Analyst | **Period:** Q1–Q2 2022  
